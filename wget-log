@@ -1,0 +1,20 @@
+--2023-10-26 10:47:02--  http://debian.neo4j.org/neotechnology.gpg.key
+Resolving debian.neo4j.org (debian.neo4j.org)... 3.134.143.175, 3.133.26.86, 3.18.167.201
+Connecting to debian.neo4j.org (debian.neo4j.org)|3.134.143.175|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://debian.neo4j.org:443/neotechnology.gpg.key [following]
+--2023-10-26 10:47:03--  https://debian.neo4j.org/neotechnology.gpg.key
+Connecting to debian.neo4j.org (debian.neo4j.org)|3.134.143.175|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://debian.neo4j.com:443/ [following]
+--2023-10-26 10:47:04--  https://debian.neo4j.com/
+Resolving debian.neo4j.com (debian.neo4j.com)... 13.226.228.95, 13.226.228.84, 13.226.228.112, ...
+Connecting to debian.neo4j.com (debian.neo4j.com)|13.226.228.95|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 10975 (11K) [text/html]
+Saving to: ‘STDOUT’
+
+-                     0%[                 ]       0  --.-KB/s               -                     0%[                 ]       0  --.-KB/s    in 0s      
+
+
+Cannot write to ‘-’ (Success).
